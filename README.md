@@ -1,12 +1,72 @@
-# React + Vite
+# FULL-STACK-TO-NOT-DO-APP-FRONTEND
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*Transform Distractions into Focused Achievements Effortlessly*
 
-Currently, two official plugins are available:
+![last commit](https://img.shields.io/badge/last%20commit-July-brightgreen)
+![JavaScript](https://img.shields.io/badge/javascript-74.2%25-yellow)
+![languages](https://img.shields.io/badge/languages-3-blue)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Built with the tools and technologies:**
 
-## Expanding the ESLint configuration
+`JSON` `Markdown` `npm` `JavaScript` `React` `Vite` `ESLint` `Axios`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Table of Contents
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+
+---
+
+## Overview
+
+**full-stack-to-not-do-app-frontend** is a modern React-based frontend scaffold designed for rapid development and robust habit-tracking features.  
+It leverages **Vite** for blazing-fast builds, **ESLint** for maintaining high code quality, and a modular component architecture for scalability.
+
+### Why full-stack-to-not-do-app-frontend?
+
+This project provides a streamlined React frontend architecture with:
+
+- 🚀 **Speedy Development** – Fast startup & hot module replacement with Vite.
+- ✅ **Code Quality** – ESLint enforces best practices for JavaScript/JSX.
+- 📦 **Modular Components** – Reusable components like `ToNotDo` & `HandleApi`.
+- 🔗 **API Integration** – Centralized CRUD functions for seamless backend sync.
+- 📂 **Clear Structure** – Well-defined entry points & HTML setup.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+This project requires:
+- **Programming Language:** JavaScript
+- **Package Manager:** npm
+
+---
+
+### Installation
+
+Clone the repo and install dependencies:
+
+```bash
+
+git clone https://github.com/YOUR_USERNAME/full-stack-to-not-do-app-frontend
+```
+Navigate into the project folder
+```bash
+cd full-stack-to-not-do-app-frontend
+```
+Install dependencies
+```bash
+npm install
+```
+### Usage
+Run locally
+```bash
+npm start
+```
+
